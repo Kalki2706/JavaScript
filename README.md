@@ -18,3 +18,4 @@ Day 1 => Today started the course & took some notes of the fundamentals section.
 6) let is a function used to declare a variable
 7) if (js === 'amazing') alert('JS is fun!')
 8) In above statement if condition is used by declaring variable beforehand if the condition is true it will print the statement written in alert function.
+9) We can also do math operations simply like, 40+8+23-10 it will peint 61 answer. You just have to type numbers for basic calculations.
