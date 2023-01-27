@@ -19,3 +19,13 @@ Day 1 => Today started the course & took some notes of the fundamentals section.
 7) if (js === 'amazing') alert('JS is fun!')
 8) In above statement if condition is used by declaring variable beforehand if the condition is true it will print the statement written in alert function.
 9) We can also do math operations simply like, 40+8+23-10 it will peint 61 answer. You just have to type numbers for basic calculations.
+
+
+Day 2 => Learnt history about JS 
+
+*Notes :-
+1) What is JS? => JS is High Level, Object Oriented, Multiparadigm, Programming Language.
+2) The role of JS in Web development :- Build Web Apps
+3) There's nothing you can't do with JS (Well, almost...)
+4) JS Releases ( More about this later) => ES5 -> ES6/ES2015 -> ES7/ES2016 -> ES8/ES2017 -> ES9/ES2018 -> ES10/ES2019 -> ES11/ES2020 -> .... (ES stands for EcmaScript)
+5) Linking a JS file (still learning)
