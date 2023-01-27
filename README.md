@@ -7,7 +7,7 @@ Day 1 => Today started the course & took some notes of the fundamentals section.
 *Notes :- 
 1) Setting Up Code Editor :- VS Code
 2) Install Theme if you want from extension of VS Code - The used in Course is "Monokai Pro"
-3)File Icon Change - Set to Seti
+3) File Icon Change - Set to Seti
 
 
 Day 2 => Learnt history about JS 
