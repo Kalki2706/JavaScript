@@ -18,3 +18,5 @@ Day 2 => Learnt history about JS
 3) There's nothing you can't do with JS (Well, almost...)
 4) JS Releases ( More about this later) => ES5 -> ES6/ES2015 -> ES7/ES2016 -> ES8/ES2017 -> ES9/ES2018 -> ES10/ES2019 -> ES11/ES2020 -> .... (ES stands for EcmaScript)
 5) Linking a JS file (still learning)
+
+#Not consistent anymore gonna study again from tomorrow.
