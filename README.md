@@ -1,3 +1,1 @@
-# Learning-JavaScript
-
-<h2>Learning JS with Jonas</h2>
+# Learning-JavaScript-With_Jonas
