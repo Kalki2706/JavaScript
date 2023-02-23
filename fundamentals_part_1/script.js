@@ -48,3 +48,7 @@ let job1 = "programmer";
 let job2 = "teacher";
 
 console.log(myFirstJob);
+
+// DATA TYPES IN JS
+
+// Objects & Primitives
