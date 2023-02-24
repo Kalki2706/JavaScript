@@ -127,28 +127,30 @@ comment*/
 // 3 different ways of declaring variables
 
 // let keyword
-let myJob = "Programmer";
-console.log(myJob);
+// let myJob = "Programmer";
+// console.log(myJob);
 
-let mySkills = "Programmer";
-console.log(mySkills);
+// let mySkills = "Programmer";
+// console.log(mySkills);
 
 // strict equality operator to show that different variables reference the same value.
-console.log(myJob === mySkills);
+// console.log(myJob === mySkills);
 
 // a mutation is the act of changing the properties of a value.
-myJob = "Web Developer";
-console.log(myJob);
+// WEBSITE LINK FOR MUTATION : https://www.sitepoint.com/variable-assignment-mutation-javascript/
+
+// myJob = "Web Developer";
+// console.log(myJob);
 
 // During mutation use let keyword
-let age = 30;
-age = 31;
+// let age = 30;
+// age = 31;
 
-console.log(age);
+// console.log(age);
 
 // Const Keyword
-const birthYear = 1990;
-console.log(birthYear);
+// const birthYear = 1990;
+// console.log(birthYear);
 
 // You can't change value of variable which used const keyword, it'll throw an error if you do, so.
 // birthYear = 1991;
@@ -161,10 +163,44 @@ console.log(birthYear);
 // Var Keyword
 // You should avoid using this keyword
 
-var job = "programmer";
-job = "teacher";
+// var job = "programmer";
+// job = "teacher";
 
 // Not using keyword is terrible idea even JS will not give error but the variable will save as globalobject
-lastName = "Schmedtmann";
-console.log(lastName);
-console.log(typeof lastName);
+// lastName = "Schmedtmann";
+// console.log(lastName);
+// console.log(typeof lastName);
+
+// Math Operators
+const now = 2022;
+const ageKalki = now - 2003;
+const ageSpirit = now - 2000;
+
+console.log(ageKalki, ageSpirit);
+// console.log(ageKalki);
+// console.log(ageSpirit);
+
+console.log(ageKalki * 2, ageKalki / 10, 2 ** 3);
+// 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
+
+// Concatenate/adding string together with + operator
+
+const firstName_lastName = "Kalki" + " " + "V";
+console.log(firstName_lastName);
+// const lastName = "V";
+// console.log(firstName + lastName);
+
+// Assignment operator
+
+let x = 10 + 5; //15 //here's two operators one is = and second one is +
+x += 10; // x = x + 10 = 25
+x *= 4; // x = x * 4 = 100
+x++; // x = x + 1
+x--; // x = x - 1
+console.log(x);
+
+// Comparison operators
+console.log(ageKalki > ageSpirit); // >, <, >=, <=
+console.log(ageKalki >= 18);
+
+console.log(now - 2000 > now - 2003);
