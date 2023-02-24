@@ -51,4 +51,14 @@ console.log(myFirstJob);
 
 // DATA TYPES IN JS
 
-// Objects & Primitives
+// There are two type of values in JS:- Objects & Primitives
+
+// Object
+// let me = {
+//   name: "Jonas",
+// };
+// console.log(me);
+
+// Primitive
+// firstName = "Jonas";
+// let age = 30;
