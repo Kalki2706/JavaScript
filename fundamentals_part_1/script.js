@@ -62,3 +62,27 @@ console.log(myFirstJob);
 // Primitive
 // firstName = "Jonas";
 // let age = 30;
+
+// There are 7 Primitive data types
+
+// The first 3 are most important one.
+
+// 1. Numbber: Floating point numbers used for decimals and integers
+// let age = 23;
+
+// 2. String: Sequence of characters used for text
+// let firstName = "Jonas";
+
+// 3. Boolean: Logical type can only be true or false used for taking decisions
+// let fullAge = true;
+
+// 4 . Undefined: Value taken by a variable that is not yer defined ('empty value')
+// let children;
+
+// 5. Null: Also means 'empty value'
+
+// 6. Symbol(ES2015): Value that is unique and cannot be changed [Not useful for now]
+
+// 7. BigInt(ES2020): Larger integers tham t he Number type can hold
+
+// *NOTE: JS has dynamic typing: We do not have to manually  define the value stored in a variable. Instead, data types are determined automatically.
