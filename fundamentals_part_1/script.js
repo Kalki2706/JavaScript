@@ -86,3 +86,11 @@ console.log(myFirstJob);
 // 7. BigInt(ES2020): Larger integers tham t he Number type can hold
 
 // *NOTE: JS has dynamic typing: We do not have to manually  define the value stored in a variable. Instead, data types are determined automatically.
+
+// Type of comments
+
+// Single line comment.
+/* Multi
+line 
+comment*/
+// shortcut for comments in VS code: "ctrl" + "/"
