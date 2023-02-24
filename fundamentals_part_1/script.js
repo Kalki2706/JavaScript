@@ -172,35 +172,52 @@ comment*/
 // console.log(typeof lastName);
 
 // Math Operators
-const now = 2022;
-const ageKalki = now - 2003;
-const ageSpirit = now - 2000;
+// const now = 2022;
+// const ageKalki = now - 2003;
+// const ageSpirit = now - 2000;
 
-console.log(ageKalki, ageSpirit);
+// console.log(ageKalki, ageSpirit);
 // console.log(ageKalki);
 // console.log(ageSpirit);
 
-console.log(ageKalki * 2, ageKalki / 10, 2 ** 3);
+// console.log(ageKalki * 2, ageKalki / 10, 2 ** 3);
 // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
 
 // Concatenate/adding string together with + operator
 
-const firstName_lastName = "Kalki" + " " + "V";
-console.log(firstName_lastName);
+// const firstName_lastName = "Kalki" + " " + "V";
+// console.log(firstName_lastName);
 // const lastName = "V";
 // console.log(firstName + lastName);
 
 // Assignment operator
 
-let x = 10 + 5; //15 //here's two operators one is = and second one is +
-x += 10; // x = x + 10 = 25
-x *= 4; // x = x * 4 = 100
-x++; // x = x + 1
-x--; // x = x - 1
-console.log(x);
+// let x = 10 + 5; //15 //here's two operators one is = and second one is +
+// x += 10; // x = x + 10 = 25
+// x *= 4; // x = x * 4 = 100
+// x++; // x = x + 1
+// x--; // x = x - 1
+// console.log(x);
 
 // Comparison operators
-console.log(ageKalki > ageSpirit); // >, <, >=, <=
-console.log(ageKalki >= 18);
+// console.log(ageKalki > ageSpirit); // >, <, >=, <=
+// console.log(ageKalki >= 18);
+
+// console.log(now - 2000 > now - 2003);
+
+// OPERATOR PRECEDENCE
+
+const now = 2022;
+const ageKalki = now - 2003;
+const ageSpirit = now - 2000;
 
 console.log(now - 2000 > now - 2003);
+
+// operator precedence example
+// "WEBSITE LINK" => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+let x, y;
+x = y = 25 - 10 - 5; // x = y = 10, x = 10, x = y // - operator has higher precedence over = operator.
+console.log(x, y);
+
+const averageAge = (ageKalki + ageSpirit) / 2;
+console.log(ageKalki, ageSpirit, averageAge);
