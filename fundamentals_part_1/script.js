@@ -94,3 +94,32 @@
 line 
 comment*/
 // shortcut for comments in VS code: "ctrl" + "/"
+
+// Boolean value
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+// typeof operator
+// console.log(typeof true);
+console.log(typeof javascriptIsFun);
+// console.log(typeof 23);
+// console.log(typeof "Jonas");
+
+javascriptIsFun = "YES!";
+console.log(typeof javascriptIsFun);
+// console.log(javascriptIsFun);
+
+// Undefined value
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(typeof year);
+
+// Null value
+
+console.log(null);
+console.log(typeof null);
+// The null type will show as a object but it's just a bug and it's kept by JS for some legacy reasons
