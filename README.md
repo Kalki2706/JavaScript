@@ -1,1 +1,1 @@
-# Learning-JavaScript-With_Jonas
+# Learning-JavaScript-With-Jonas
