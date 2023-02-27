@@ -221,3 +221,17 @@ console.log(x, y);
 
 const averageAge = (ageKalki + ageSpirit) / 2;
 console.log(ageKalki, ageSpirit, averageAge);
+
+// STRING & TEMPLATE LITERALS
+
+const firstName = "Kalki";
+const job = "programmar";
+const birthYear = 2003;
+const year = 2023;
+
+const kalki =
+  "I'm " + firstName + ", a " + (year - birthYear) + " years old " + job + "!";
+console.log(kalki);
+
+const kalkiNew = `I'm ${firstName}, a ${year - birthYear} years old ${job}!`;
+console.log(kalkiNew);
