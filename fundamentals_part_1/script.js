@@ -235,3 +235,6 @@ console.log(kalki);
 
 const kalkiNew = `I'm ${firstName}, a ${year - birthYear} years old ${job}!`;
 console.log(kalkiNew);
+
+const kalkiNewOne = `I'm ${firstName}`;
+console.log(kalkiNewOne);
